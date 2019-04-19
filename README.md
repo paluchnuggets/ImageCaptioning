@@ -1,4 +1,12 @@
-# Advanced Computer Vision & Deep Learning
+# Udacity Computer Vision Nanodegree Part 2: Advanced Computer Vision & Deep Learning
 
-This repository has been created for documenting my progress during the second project of Udacity Computer Vision Nanodegree: Image Captioning.<br>
-Final Project will be to implement an effective RNN decoder for a CNN encoder to predict captions for a given image.
+This repository will cover 7 topics:
+- Advanced CNN Architectures
+- YOLO
+- RNN's
+- Long Short-Term Memory Networks (LSTMs)
+- Hyperparameters tuning
+- Attention Mechanisms
+- Image Captioning
+
+Final Project will be to implement an effective RNN decoder for a CNN encoder to predict captions for a given image. It can be found in this repository (link to be provided).
