@@ -1,9 +1,9 @@
 # Udacity Computer Vision Nanodegree Part 2: Advanced Computer Vision & Deep Learning
 
 This repository will cover 7 topics:
-- [Advanced CNN Architectures](\EvolutionOfR-CNN.ipynb)
-- [YOLO](\YOLO.ipynb)
-- [RNN's](\RNN.ipynb)
+- [Advanced CNN Architectures](/EvolutionOfR-CNN.ipynb)
+- [YOLO](/YOLO.ipynb)
+- [RNN's](/RNN.ipynb)
 - Long Short-Term Memory Networks (LSTMs)
 - Hyperparameters tuning
 - Attention Mechanisms
