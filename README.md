@@ -4,7 +4,7 @@ This repository will cover 7 topics:
 - [Advanced CNN Architectures](/EvolutionOfR-CNN.ipynb)
 - [YOLO](/YOLO.ipynb)
 - [RNN's](/RNN.ipynb)
-- Long Short-Term Memory Networks (LSTMs)
+- [Long Short-Term Memory Networks (LSTMs)](/LSTM.ipynb)
 - Hyperparameters tuning
 - Attention Mechanisms
 - Image Captioning
