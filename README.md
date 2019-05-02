@@ -1,6 +1,6 @@
 # Udacity Computer Vision Nanodegree Part 2: Advanced Computer Vision & Deep Learning
 
-This repository will cover 6 topics:
+This repository covers 5 topics:
 
 1. [Advanced CNN Architectures](/EvolutionOfR-CNN.ipynb)<br>
 <img src="images/RegionProposal.png" width="700"><br>
@@ -32,8 +32,5 @@ However, if you are interested in implementation of LSTM models you may check [P
 Credits: Udacity Computer Vision Nanodegree<br>
 
 Overview of how does *Attention* can be used to deal with problems in sequence to sequence models. Also, you can find here detailed description of how *Encoder* and *Decoder* works in such models and how does it connects with *Attention Mechanisms*.
-
-6. Image Captioning<br>
-*In progress*
 
 Final Project will be to implement an effective RNN decoder for a CNN encoder to predict captions for a given image. It can be found in this repository (link to be provided).
