@@ -33,4 +33,4 @@ Credits: Udacity Computer Vision Nanodegree<br>
 
 Overview of how does *Attention* can be used to deal with problems in sequence to sequence models. Also, you can find here detailed description of how *Encoder* and *Decoder* works in such models and how does it connects with *Attention Mechanisms*.
 
-Final Project will be to implement an effective RNN decoder for a CNN encoder to predict captions for a given image. It can be found in this repository (link to be provided).
+Final Project will be to implement an effective RNN decoder for a CNN encoder to predict captions for a given image. It can be found in this [repository](https://github.com/paluchnuggets/ImageCaptioningProject).
